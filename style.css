@@ -2,7 +2,8 @@
     width: 400px;
     height: 530px;
     background-color: #a39fa5;
-    margin-left: 400px;
+    margin-left: 0px;
+    margin-top:10px;
     border-radius: 10px;
     border-color: antiquewhite;
 }
